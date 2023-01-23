@@ -25,7 +25,8 @@ echo color("green","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 echo color("white","[•]  Time  : ".date("l, Y-m-d H:i:s")."   \n");
 echo color("green","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n");
 echo color("white","[•]              Gondrong      \n");
-echo color("green","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n");          Format Kode 62*** \n\n");
+echo color("green","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"); 
+   
 	$nama = nama();
 	$email = str_replace(" ", "", $nama) . mt_rand(100, 999);
 	echo color("white","NOMOR: ");
