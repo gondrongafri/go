@@ -1,12 +1,31 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-ulang:
-// function change(){
-	echo color("red","             SCRIPT GRATIS TIDAK DI JUAL \n");
-	echo color("white","                 ".date('d-m-Y H:i:s')."   \n");
-	echo color("white","             Gondrong Cuans       \n");
-	echo color("white","                  Format Kode 62*** \n\n");
+echo "\e[97m::::::::::::::::::::::::::::::::::::::::::::\n";
+echo "\e[97m::::::::::::::\e[92mldkOKXXNNXXKOkdl\e[97m::::::::::::::\n";
+echo "\e[97m:::::::::::\e[92md0NMMMMMMMMMMMMMMMMN0d\e[97m:::::::::::\n";
+echo "\e[97m::::::::\e[92mcONMMMMMMMMMMMMMMMMMMMMMMNOc\e[97m::::::::\n";
+echo "\e[97m::::::\e[92mcOWMMMMMMMMWX0OOOO0XWMMMMMMMMWOc\e[97m::::::\n";
+echo "\e[97m:::::\e[92moNMMMMMMMXkl\e[97m::::::::::\e[92mlkXMMMMMMMNo\e[97m:::::\n";
+echo "\e[97m::::\e[92moWMMMMMMXo\e[97m::::::\e[92mlool\e[97m::::::\e[92moXMMMMMMWo\e[97m::::\n";
+echo "\e[97m:::\e[92mcNMMMMMM0\e[97m::::\e[92mcxKWMMMMWKxc\e[97m::::\e[92m0MMMMMMNc\e[97m:::\n";
+echo "\e[97m:::\e[92mkMMMMMMX\e[97m::::\e[92mlXMMMMMMMMMMXl\e[97m::::\e[92mXMMMMMMk\e[97m:::\n";
+echo "\e[97m:::\e[92mKMMMMMMx\e[97m::::\e[92mKMMMMMMMMMMMMK\e[97m::::\e[92mxMMMMMMK\e[97m:::\n";
+echo "\e[97m:::\e[92mXMMMMMMd\e[97m::::\e[92mNMMMMMMMMMMMMNc\e[97m:::\e[92mdMMMMMMX\e[97m:::\n";
+echo "\e[97m:::\e[92m0MMMMMMO\e[97m::::\e[92mkMMMMMMMMMMMMk\e[97m::::\e[92mOMMMMMM0\e[97m:::\n";
+echo "\e[97m:::\e[92moMMMMMMWo\e[97m::::\e[92mxNMMMMMMMMNx\e[97m::::\e[92moWMMMMMMo\e[97m:::\n";
+echo "\e[97m::::\e[92m0MMMMMMWd\e[97m:::::\e[92mok0KK0ko\e[97m:::::\e[92mdWMMMMMM0\e[97m::::\n";
+echo "\e[97m::::\e[92mcKMMMMMMMKdc\e[97m::::::::::::\e[92mcdKMMMMMMMKc\e[97m::::\n";
+echo "\e[97m::::::\e[92mxNMMMMMMMWKkl\e[97m::::::\e[92mlkKWMMMMMMMNx\e[97m::::::\n";
+echo "\e[97m:::::::\e[92mcOWMMMMMMMMWx\e[97m::::\e[92mxWMMMMMMMMWOc\e[97m:::::::\n";
+echo "\e[97m:::::::::\e[92mckXMMMMMMMx\e[97m::::\e[92mxMMMMMMMXkc\e[97m:::::::::\n";
+echo "\e[97m::::::::::::\e[92mlxOKX0d\e[97m::::::\e[92md0XKOxl\e[97m::::::::::::\n";
+echo "\e[97m::::::::::::::::::::::::::::::::::::::::::::\n";
+echo color("green","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n");
+echo color("white","[•]  Time  : ".date("l, Y-m-d H:i:s")."   \n");
+echo color("green","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n");
+echo color("white","[•]              Gondrong      \n");
+echo color("green","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n");          Format Kode 62*** \n\n");
 	$nama = nama();
 	$email = str_replace(" ", "", $nama) . mt_rand(100, 999);
 	echo color("white","NOMOR: ");
