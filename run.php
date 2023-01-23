@@ -1,4 +1,5 @@
 <?php
+date_<?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo "\e[97m::::::::::::::::::::::::::::::::::::::::::::\n";
@@ -25,8 +26,8 @@ echo color("green","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 echo color("white","[•]  Time  : ".date("l, Y-m-d H:i:s")."   \n");
 echo color("green","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n");
 echo color("white","[•]              Gondrong      \n");
-echo color("green","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n"); 
-   
+echo color("green","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n");
+function change(){
 	$nama = nama();
 	$email = str_replace(" ", "", $nama) . mt_rand(100, 999);
 	echo color("white","NOMOR: ");
