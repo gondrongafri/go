@@ -2,6 +2,8 @@
 date_<?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
+ulang:
+// function change(){
 echo "\e[97m::::::::::::::::::::::::::::::::::::::::::::\n";
 echo "\e[97m::::::::::::::\e[92mldkOKXXNNXXKOkdl\e[97m::::::::::::::\n";
 echo "\e[97m:::::::::::\e[92md0NMMMMMMMMMMMMMMMMN0d\e[97m:::::::::::\n";
